@@ -1,2 +1,2 @@
 # DecisionTreeClassifier_IrisDataset
-In this code a Decision-Tree Classifier is built to predict the species of Iris Flowers. Two models are built, one with gini index criterion and another one with entropy criterion. The data is split into training and test sets (%75 for training and %25 for testing).
+In this code a Decision-Tree Classifier is built to predict the species of Iris Flowers. Two models are built, one with gini index criterion and another one with entropy criterion. The data is split into training and test sets (%75 for training and %25 for testing). Graphviz library is used to visualize the Decision Tree. You should download the graphviz to be able to get the decision tree
